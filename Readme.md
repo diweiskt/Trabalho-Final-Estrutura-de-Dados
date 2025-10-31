@@ -1,3 +1,3 @@
 Integrantes do grupo:
-Diwei V. Nicolay (193014)
+Diwei V. Nicolay (193014) | 
 Rafael Pizarro (207749)
