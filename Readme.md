@@ -23,7 +23,7 @@ O simulador processa 4 comandos principais:
 **`A` (Atendimento):** Atende o paciente com a maior prioridade disponível no momento.  
 **`D` (Diagnóstico):** Exibe um relatório instantâneo da lotação de cada fila.  
 **`Q` (Sair):** Encerra a simulação e exibe um relatório final completo, incluindo:  
-    * Total de pacientes atendidos.
-    * Detalhamento de atendidos por prioridade.
-    * Pico de lotação (maior número de pacientes em espera).
-    * Tempo máximo de espera em minutos.
+* Total de pacientes atendidos.
+* Detalhamento de atendidos por prioridade.
+* Pico de lotação (maior número de pacientes em espera).
+* Tempo máximo de espera em minutos.
